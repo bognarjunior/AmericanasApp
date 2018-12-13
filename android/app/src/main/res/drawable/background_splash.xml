@@ -1,0 +1,9 @@
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@color/primary"/>
+    <item 
+        android:width="196dp"
+        android:height="196dp"
+        android:drawable="@drawable/splash"
+        android:gravity="center"
+    />
+</layer-list>

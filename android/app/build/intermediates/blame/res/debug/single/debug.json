@@ -88,10 +88,6 @@
         "source": "C:\\Users\\Acer\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\619b1cefb8dc97f1c10d928dd3fbedaf\\res\\drawable-xxhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
     },
     {
-        "merged": "C:\\Users\\Acer\\Documents\\GitHub\\AmericanasApp\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
-        "source": "C:\\Users\\Acer\\Documents\\GitHub\\AmericanasApp\\android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
-    },
-    {
         "merged": "C:\\Users\\Acer\\Documents\\GitHub\\AmericanasApp\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\Acer\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\619b1cefb8dc97f1c10d928dd3fbedaf\\res\\drawable-xxhdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
     },
@@ -118,10 +114,6 @@
     {
         "merged": "C:\\Users\\Acer\\Documents\\GitHub\\AmericanasApp\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_action_tombstone.xml.flat",
         "source": "C:\\Users\\Acer\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\1450c99055ee833d6a90304671a9ef15\\res\\layout\\notification_action_tombstone.xml"
-    },
-    {
-        "merged": "C:\\Users\\Acer\\Documents\\GitHub\\AmericanasApp\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
-        "source": "C:\\Users\\Acer\\Documents\\GitHub\\AmericanasApp\\android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
     },
     {
         "merged": "C:\\Users\\Acer\\Documents\\GitHub\\AmericanasApp\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
@@ -348,10 +340,6 @@
         "source": "C:\\Users\\Acer\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\1450c99055ee833d6a90304671a9ef15\\res\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png"
     },
     {
-        "merged": "C:\\Users\\Acer\\Documents\\GitHub\\AmericanasApp\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\Acer\\Documents\\GitHub\\AmericanasApp\\android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
-    },
-    {
         "merged": "C:\\Users\\Acer\\Documents\\GitHub\\AmericanasApp\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_low_pressed.9.png.flat",
         "source": "C:\\Users\\Acer\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\1450c99055ee833d6a90304671a9ef15\\res\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png"
     },
@@ -522,6 +510,10 @@
     {
         "merged": "C:\\Users\\Acer\\Documents\\GitHub\\AmericanasApp\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_list_pressed_holo_light.9.png.flat",
         "source": "C:\\Users\\Acer\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\619b1cefb8dc97f1c10d928dd3fbedaf\\res\\drawable-xhdpi-v4\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\Documents\\GitHub\\AmericanasApp\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_splash.png.flat",
+        "source": "C:\\Users\\Acer\\Documents\\GitHub\\AmericanasApp\\android\\app\\src\\main\\res\\drawable\\splash.png"
     },
     {
         "merged": "C:\\Users\\Acer\\Documents\\GitHub\\AmericanasApp\\android\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_background_cache_hint_selector_material_dark.xml.flat",
@@ -696,10 +688,6 @@
         "source": "C:\\Users\\Acer\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\619b1cefb8dc97f1c10d928dd3fbedaf\\res\\color\\abc_tint_edittext.xml"
     },
     {
-        "merged": "C:\\Users\\Acer\\Documents\\GitHub\\AmericanasApp\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\Acer\\Documents\\GitHub\\AmericanasApp\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
-    },
-    {
         "merged": "C:\\Users\\Acer\\Documents\\GitHub\\AmericanasApp\\android\\app\\build\\intermediates\\res\\merged\\debug\\color-v23_abc_tint_switch_track.xml.flat",
         "source": "C:\\Users\\Acer\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\619b1cefb8dc97f1c10d928dd3fbedaf\\res\\color-v23\\abc_tint_switch_track.xml"
     },
@@ -808,6 +796,10 @@
         "source": "C:\\Users\\Acer\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\619b1cefb8dc97f1c10d928dd3fbedaf\\res\\drawable-xhdpi-v4\\abc_ic_star_black_16dp.png"
     },
     {
+        "merged": "C:\\Users\\Acer\\Documents\\GitHub\\AmericanasApp\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon.png.flat",
+        "source": "C:\\Users\\Acer\\Documents\\GitHub\\AmericanasApp\\android\\app\\src\\main\\res\\drawable\\icon.png"
+    },
+    {
         "merged": "C:\\Users\\Acer\\Documents\\GitHub\\AmericanasApp\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
         "source": "C:\\Users\\Acer\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\619b1cefb8dc97f1c10d928dd3fbedaf\\res\\drawable-xxhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
     },
@@ -876,6 +868,10 @@
         "source": "C:\\Users\\Acer\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\619b1cefb8dc97f1c10d928dd3fbedaf\\res\\drawable-hdpi-v4\\abc_ic_star_black_36dp.png"
     },
     {
+        "merged": "C:\\Users\\Acer\\Documents\\GitHub\\AmericanasApp\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon.png.flat",
+        "source": "C:\\Users\\Acer\\Documents\\GitHub\\AmericanasApp\\android\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
+    },
+    {
         "merged": "C:\\Users\\Acer\\Documents\\GitHub\\AmericanasApp\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_search_view.xml.flat",
         "source": "C:\\Users\\Acer\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\619b1cefb8dc97f1c10d928dd3fbedaf\\res\\layout\\abc_search_view.xml"
     },
@@ -916,20 +912,12 @@
         "source": "C:\\Users\\Acer\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\619b1cefb8dc97f1c10d928dd3fbedaf\\res\\color\\switch_thumb_material_dark.xml"
     },
     {
-        "merged": "C:\\Users\\Acer\\Documents\\GitHub\\AmericanasApp\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
-        "source": "C:\\Users\\Acer\\Documents\\GitHub\\AmericanasApp\\android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
-    },
-    {
         "merged": "C:\\Users\\Acer\\Documents\\GitHub\\AmericanasApp\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_fps_view.xml.flat",
         "source": "C:\\Users\\Acer\\.gradle\\caches\\transforms-1\\files-1.1\\react-native-0.57.8.aar\\4b2aba99ae71a86dd9103a736a4cf3e2\\res\\layout\\fps_view.xml"
     },
     {
         "merged": "C:\\Users\\Acer\\Documents\\GitHub\\AmericanasApp\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_list_menu_item_layout.xml.flat",
         "source": "C:\\Users\\Acer\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\619b1cefb8dc97f1c10d928dd3fbedaf\\res\\layout\\abc_list_menu_item_layout.xml"
-    },
-    {
-        "merged": "C:\\Users\\Acer\\Documents\\GitHub\\AmericanasApp\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\Acer\\Documents\\GitHub\\AmericanasApp\\android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
     },
     {
         "merged": "C:\\Users\\Acer\\Documents\\GitHub\\AmericanasApp\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_popup_menu_header_item_layout.xml.flat",
@@ -944,8 +932,16 @@
         "source": "C:\\Users\\Acer\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\619b1cefb8dc97f1c10d928dd3fbedaf\\res\\drawable-xxhdpi-v4\\abc_ic_star_black_16dp.png"
     },
     {
+        "merged": "C:\\Users\\Acer\\Documents\\GitHub\\AmericanasApp\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_icon.png.flat",
+        "source": "C:\\Users\\Acer\\Documents\\GitHub\\AmericanasApp\\android\\app\\src\\main\\res\\drawable-ldpi\\icon.png"
+    },
+    {
         "merged": "C:\\Users\\Acer\\Documents\\GitHub\\AmericanasApp\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-mdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
         "source": "C:\\Users\\Acer\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\619b1cefb8dc97f1c10d928dd3fbedaf\\res\\drawable-ldrtl-mdpi-v17\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\Documents\\GitHub\\AmericanasApp\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_icon.png.flat",
+        "source": "C:\\Users\\Acer\\Documents\\GitHub\\AmericanasApp\\android\\app\\src\\main\\res\\drawable-xxhdpi\\icon.png"
     },
     {
         "merged": "C:\\Users\\Acer\\Documents\\GitHub\\AmericanasApp\\android\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_tint_spinner.xml.flat",
@@ -1020,12 +1016,20 @@
         "source": "C:\\Users\\Acer\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\619b1cefb8dc97f1c10d928dd3fbedaf\\res\\anim\\abc_fade_in.xml"
     },
     {
+        "merged": "C:\\Users\\Acer\\Documents\\GitHub\\AmericanasApp\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background_splash.xml.flat",
+        "source": "C:\\Users\\Acer\\Documents\\GitHub\\AmericanasApp\\android\\app\\src\\main\\res\\drawable\\background_splash.xml"
+    },
+    {
         "merged": "C:\\Users\\Acer\\Documents\\GitHub\\AmericanasApp\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
         "source": "C:\\Users\\Acer\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\619b1cefb8dc97f1c10d928dd3fbedaf\\res\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
     },
     {
         "merged": "C:\\Users\\Acer\\Documents\\GitHub\\AmericanasApp\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\Acer\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\619b1cefb8dc97f1c10d928dd3fbedaf\\res\\drawable-hdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\Documents\\GitHub\\AmericanasApp\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon.png.flat",
+        "source": "C:\\Users\\Acer\\Documents\\GitHub\\AmericanasApp\\android\\app\\src\\main\\res\\drawable-xhdpi\\icon.png"
     },
     {
         "merged": "C:\\Users\\Acer\\Documents\\GitHub\\AmericanasApp\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
@@ -1050,6 +1054,10 @@
     {
         "merged": "C:\\Users\\Acer\\Documents\\GitHub\\AmericanasApp\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_list_divider_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\Acer\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\619b1cefb8dc97f1c10d928dd3fbedaf\\res\\drawable-xhdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\Documents\\GitHub\\AmericanasApp\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon.png.flat",
+        "source": "C:\\Users\\Acer\\Documents\\GitHub\\AmericanasApp\\android\\app\\src\\main\\res\\drawable-mdpi\\icon.png"
     },
     {
         "merged": "C:\\Users\\Acer\\Documents\\GitHub\\AmericanasApp\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ic_search_api_material.xml.flat",
@@ -1156,10 +1164,6 @@
         "source": "C:\\Users\\Acer\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\619b1cefb8dc97f1c10d928dd3fbedaf\\res\\drawable-mdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
     },
     {
-        "merged": "C:\\Users\\Acer\\Documents\\GitHub\\AmericanasApp\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\Acer\\Documents\\GitHub\\AmericanasApp\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
-    },
-    {
         "merged": "C:\\Users\\Acer\\Documents\\GitHub\\AmericanasApp\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
         "source": "C:\\Users\\Acer\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\619b1cefb8dc97f1c10d928dd3fbedaf\\res\\drawable-xxxhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
     },
@@ -1182,10 +1186,6 @@
     {
         "merged": "C:\\Users\\Acer\\Documents\\GitHub\\AmericanasApp\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\Acer\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\619b1cefb8dc97f1c10d928dd3fbedaf\\res\\drawable-xxxhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "C:\\Users\\Acer\\Documents\\GitHub\\AmericanasApp\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
-        "source": "C:\\Users\\Acer\\Documents\\GitHub\\AmericanasApp\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
     },
     {
         "merged": "C:\\Users\\Acer\\Documents\\GitHub\\AmericanasApp\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_list_focused_holo.9.png.flat",
@@ -1384,14 +1384,6 @@
         "source": "C:\\Users\\Acer\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\619b1cefb8dc97f1c10d928dd3fbedaf\\res\\drawable-xxhdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
     },
     {
-        "merged": "C:\\Users\\Acer\\Documents\\GitHub\\AmericanasApp\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\Acer\\Documents\\GitHub\\AmericanasApp\\android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
-    },
-    {
-        "merged": "C:\\Users\\Acer\\Documents\\GitHub\\AmericanasApp\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
-        "source": "C:\\Users\\Acer\\Documents\\GitHub\\AmericanasApp\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
-    },
-    {
         "merged": "C:\\Users\\Acer\\Documents\\GitHub\\AmericanasApp\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
         "source": "C:\\Users\\Acer\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\619b1cefb8dc97f1c10d928dd3fbedaf\\res\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
     },
@@ -1542,6 +1534,10 @@
     {
         "merged": "C:\\Users\\Acer\\Documents\\GitHub\\AmericanasApp\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_action_tombstone.xml.flat",
         "source": "C:\\Users\\Acer\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\1450c99055ee833d6a90304671a9ef15\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\Documents\\GitHub\\AmericanasApp\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_icon.png.flat",
+        "source": "C:\\Users\\Acer\\Documents\\GitHub\\AmericanasApp\\android\\app\\src\\main\\res\\drawable-xxxhdpi\\icon.png"
     },
     {
         "merged": "C:\\Users\\Acer\\Documents\\GitHub\\AmericanasApp\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_list_selector_disabled_holo_dark.9.png.flat",

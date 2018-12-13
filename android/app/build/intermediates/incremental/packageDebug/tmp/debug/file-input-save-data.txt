@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Thu Dec 13 19:23:18 BRST 2018
+#Thu Dec 13 20:24:40 BRST 2018
 17.baseType=DIRECTORY
 4.path=lib/x86_64/libimagepipeline.so
 25.base=C\:\\Users\\Acer\\Documents\\GitHub\\AmericanasApp\\android\\app\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\0
