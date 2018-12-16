@@ -18,7 +18,7 @@ export const getProductList = async () => {
     const response = await fetch(url, headerDefault());
     const payload = await response.json();
     return {
-      result: payload.placements,
+      result: payload.placements[0].recommendedProducts,
       isFetch: true,
     }
   } catch (error) {
