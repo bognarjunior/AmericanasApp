@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { StyleSheet, View, Text } from 'react-native';
+import { StyleSheet, View } from 'react-native';
 import List from './components/List';
 
 export default class App extends Component {
@@ -7,7 +7,7 @@ export default class App extends Component {
   render() {
     return (
       <View style={styles.container}>
-        <List/>
+        <List />
       </View>
     );
   }
@@ -18,6 +18,6 @@ const styles = StyleSheet.create({
     flex: 1,
     justifyContent: 'center',
     alignItems: 'center',
-    backgroundColor: '#FFFFFF',
+    backgroundColor: '#d9d9d9',
   }
 });
